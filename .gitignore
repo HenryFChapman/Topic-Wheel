@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# API keys and sensitive data
+api_key.txt
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+Thumbs.db 

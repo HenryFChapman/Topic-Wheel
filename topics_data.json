@@ -1,0 +1,632 @@
+{
+  "name": "Topics",
+  "children": [
+    {
+      "name": "quick",
+      "value": 4192,
+      "children": [
+        {
+          "name": "stock",
+          "value": 10522,
+          "proportion": 0.25679699321520966
+        },
+        {
+          "name": "quarter",
+          "value": 8975,
+          "proportion": 0.21904134329086739
+        },
+        {
+          "name": "ratio",
+          "value": 10337,
+          "proportion": 0.2522819348855372
+        },
+        {
+          "name": "rating",
+          "value": 8067,
+          "proportion": 0.19688094889442084
+        },
+        {
+          "name": "Other",
+          "value": 3073,
+          "proportion": 0.07499877971396496,
+          "children": [
+            {
+              "name": "I\u2019ll",
+              "value": 258,
+              "proportion": 0.006296675940840533
+            },
+            {
+              "name": "Join",
+              "value": 672,
+              "proportion": 0.016400644311026506
+            },
+            {
+              "name": "recipe",
+              "value": 1714,
+              "proportion": 0.04183140528139796
+            },
+            {
+              "name": "thanks",
+              "value": 429,
+              "proportion": 0.010470054180699956
+            }
+          ]
+        }
+      ],
+      "proportion": 0.19054545454545455
+    },
+    {
+      "name": "dinner",
+      "value": 2521,
+      "children": [
+        {
+          "name": "easy",
+          "value": 2215,
+          "proportion": 0.1511120207395279
+        },
+        {
+          "name": "breakfast",
+          "value": 1653,
+          "proportion": 0.11277118297175603
+        },
+        {
+          "name": "President",
+          "value": 1450,
+          "proportion": 0.09892209032610179
+        },
+        {
+          "name": "easy",
+          "value": 3918,
+          "proportion": 0.267294310274253
+        },
+        {
+          "name": "quick",
+          "value": 2450,
+          "proportion": 0.16714422158548234
+        },
+        {
+          "name": "Other",
+          "value": 2972,
+          "proportion": 0.20275617410287897,
+          "children": [
+            {
+              "name": "sauce",
+              "value": 726,
+              "proportion": 0.04952926729431027
+            },
+            {
+              "name": "breakfast",
+              "value": 731,
+              "proportion": 0.04987037795060718
+            },
+            {
+              "name": "recipes",
+              "value": 381,
+              "proportion": 0.025992632009823987
+            },
+            {
+              "name": "Sunday",
+              "value": 426,
+              "proportion": 0.029062627916496112
+            },
+            {
+              "name": "Join",
+              "value": 708,
+              "proportion": 0.048301268931641425
+            }
+          ]
+        }
+      ],
+      "proportion": 0.11459090909090909
+    },
+    {
+      "name": "cheese",
+      "value": 3153,
+      "children": [
+        {
+          "name": "cake",
+          "value": 1929,
+          "proportion": 0.13814093382984818
+        },
+        {
+          "name": "protein",
+          "value": 1118,
+          "proportion": 0.08006301919220854
+        },
+        {
+          "name": "easy",
+          "value": 4177,
+          "proportion": 0.2991263248352907
+        },
+        {
+          "name": "dinner",
+          "value": 1532,
+          "proportion": 0.10971068461758808
+        },
+        {
+          "name": "quick",
+          "value": 1976,
+          "proportion": 0.14150673159553137
+        },
+        {
+          "name": "cheese frosting",
+          "value": 1392,
+          "proportion": 0.09968490403895731
+        },
+        {
+          "name": "Other",
+          "value": 1840,
+          "proportion": 0.13176740189057576,
+          "children": [
+            {
+              "name": "baking",
+              "value": 296,
+              "proportion": 0.02119736465196219
+            },
+            {
+              "name": "sandwich",
+              "value": 536,
+              "proportion": 0.038384417072472074
+            },
+            {
+              "name": "grilled",
+              "value": 310,
+              "proportion": 0.022199942709825265
+            },
+            {
+              "name": "egg",
+              "value": 698,
+              "proportion": 0.04998567745631624
+            }
+          ]
+        }
+      ],
+      "proportion": 0.14331818181818182
+    },
+    {
+      "name": "flavor",
+      "value": 5621,
+      "children": [
+        {
+          "name": "easy",
+          "value": 7641,
+          "proportion": 0.21374024448236315
+        },
+        {
+          "name": "dinner",
+          "value": 2525,
+          "proportion": 0.07063134633136592
+        },
+        {
+          "name": "perfect",
+          "value": 7805,
+          "proportion": 0.2183277853925984
+        },
+        {
+          "name": "perfect",
+          "value": 5441,
+          "proportion": 0.15220006154018295
+        },
+        {
+          "name": "meal",
+          "value": 4766,
+          "proportion": 0.13331841450110493
+        },
+        {
+          "name": "packed",
+          "value": 1813,
+          "proportion": 0.05071470530644214
+        },
+        {
+          "name": "meal",
+          "value": 3302,
+          "proportion": 0.09236622003412683
+        },
+        {
+          "name": "Other",
+          "value": 2456,
+          "proportion": 0.06870122241181571,
+          "children": [
+            {
+              "name": "ice cream",
+              "value": 505,
+              "proportion": 0.014126269266273183
+            },
+            {
+              "name": "dessert",
+              "value": 1117,
+              "proportion": 0.031245629248370585
+            },
+            {
+              "name": "bursting",
+              "value": 834,
+              "proportion": 0.02332932389717195
+            }
+          ]
+        }
+      ],
+      "proportion": 0.2555
+    },
+    {
+      "name": "comforting",
+      "value": 1209,
+      "children": [
+        {
+          "name": "chicken",
+          "value": 4022,
+          "proportion": 0.08553079278666213
+        },
+        {
+          "name": "dinner",
+          "value": 3811,
+          "proportion": 0.08104372235454237
+        },
+        {
+          "name": "easy",
+          "value": 6734,
+          "proportion": 0.14320347056822047
+        },
+        {
+          "name": "meal",
+          "value": 7659,
+          "proportion": 0.16287427696495407
+        },
+        {
+          "name": "dinner",
+          "value": 5640,
+          "proportion": 0.11993875467846206
+        },
+        {
+          "name": "dish",
+          "value": 3959,
+          "proportion": 0.08419105137801973
+        },
+        {
+          "name": "tender",
+          "value": 4929,
+          "proportion": 0.1048188159237836
+        },
+        {
+          "name": "weeknight",
+          "value": 3536,
+          "proportion": 0.07519564477713508
+        },
+        {
+          "name": "tender",
+          "value": 4576,
+          "proportion": 0.09731201088805716
+        },
+        {
+          "name": "Other",
+          "value": 2158,
+          "proportion": 0.045891459680163324,
+          "children": [
+            {
+              "name": "hearty",
+              "value": 2158,
+              "proportion": 0.045891459680163324
+            }
+          ]
+        }
+      ],
+      "proportion": 0.05495454545454546
+    },
+    {
+      "name": "meal",
+      "value": 2818,
+      "children": [
+        {
+          "name": "tender",
+          "value": 1893,
+          "proportion": 0.06431774938842076
+        },
+        {
+          "name": "recipe",
+          "value": 5210,
+          "proportion": 0.17701821147050828
+        },
+        {
+          "name": "perfect",
+          "value": 5409,
+          "proportion": 0.1837795596629519
+        },
+        {
+          "name": "flavor",
+          "value": 4774,
+          "proportion": 0.16220440337048112
+        },
+        {
+          "name": "health",
+          "value": 2026,
+          "proportion": 0.06883664039141071
+        },
+        {
+          "name": "weeknight",
+          "value": 2539,
+          "proportion": 0.08626664854580049
+        },
+        {
+          "name": "flavor",
+          "value": 3175,
+          "proportion": 0.1078757814623539
+        },
+        {
+          "name": "comfort",
+          "value": 1926,
+          "proportion": 0.0654389779831476
+        },
+        {
+          "name": "ingredients",
+          "value": 1994,
+          "proportion": 0.06774938842076651
+        },
+        {
+          "name": "Other",
+          "value": 486,
+          "proportion": 0.01651263930415874,
+          "children": [
+            {
+              "name": "satisfying",
+              "value": 486,
+              "proportion": 0.01651263930415874
+            }
+          ]
+        }
+      ],
+      "proportion": 0.1280909090909091
+    },
+    {
+      "name": "Other",
+      "value": 2486,
+      "proportion": 0.113,
+      "children": [
+        {
+          "name": "chocolate",
+          "value": 916,
+          "children": [
+            {
+              "name": "Chip",
+              "value": 2959,
+              "proportion": 0.28215886335462953
+            },
+            {
+              "name": "eggs",
+              "value": 1667,
+              "proportion": 0.15895871078478116
+            },
+            {
+              "name": "recipe",
+              "value": 934,
+              "proportion": 0.08906264899399256
+            },
+            {
+              "name": "Chip",
+              "value": 1739,
+              "proportion": 0.16582435396204825
+            },
+            {
+              "name": "easy",
+              "value": 1751,
+              "proportion": 0.1669686278249261
+            },
+            {
+              "name": "Other",
+              "value": 1437,
+              "proportion": 0.1370267950796224,
+              "children": [
+                {
+                  "name": "recipe",
+                  "value": 351,
+                  "proportion": 0.033470010489177075
+                },
+                {
+                  "name": "brown",
+                  "value": 185,
+                  "proportion": 0.017640888719366834
+                },
+                {
+                  "name": "bar",
+                  "value": 171,
+                  "proportion": 0.016305902546009346
+                },
+                {
+                  "name": "melted",
+                  "value": 398,
+                  "proportion": 0.03795174978544865
+                },
+                {
+                  "name": "coffee",
+                  "value": 332,
+                  "proportion": 0.03165824353962048
+                }
+              ]
+            }
+          ],
+          "proportion": 0.04163636363636364
+        },
+        {
+          "name": "chocolate",
+          "value": 718,
+          "children": [
+            {
+              "name": "Chip",
+              "value": 2959,
+              "proportion": 0.28719790352324565
+            },
+            {
+              "name": "recipe",
+              "value": 934,
+              "proportion": 0.09065320780355236
+            },
+            {
+              "name": "eggs",
+              "value": 1667,
+              "proportion": 0.16179753469863148
+            },
+            {
+              "name": "Chip",
+              "value": 1739,
+              "proportion": 0.16878579054644277
+            },
+            {
+              "name": "easy",
+              "value": 1751,
+              "proportion": 0.16995049985441132
+            },
+            {
+              "name": "Other",
+              "value": 1253,
+              "proportion": 0.12161506357371639,
+              "children": [
+                {
+                  "name": "recipe",
+                  "value": 351,
+                  "proportion": 0.03406774725808017
+                },
+                {
+                  "name": "brown",
+                  "value": 185,
+                  "proportion": 0.01795593516451519
+                },
+                {
+                  "name": "bar",
+                  "value": 171,
+                  "proportion": 0.016597107638551878
+                },
+                {
+                  "name": "melted",
+                  "value": 398,
+                  "proportion": 0.038629525380957
+                },
+                {
+                  "name": "mint chocolate",
+                  "value": 148,
+                  "proportion": 0.014364748131612152
+                }
+              ]
+            }
+          ],
+          "proportion": 0.03263636363636364
+        },
+        {
+          "name": "Cake Recipe",
+          "value": 302,
+          "children": [
+            {
+              "name": "best",
+              "value": 2034,
+              "proportion": 0.06119685892228541
+            },
+            {
+              "name": "dessert",
+              "value": 8507,
+              "proportion": 0.25594969461744443
+            },
+            {
+              "name": "moist",
+              "value": 4039,
+              "proportion": 0.12152119625718326
+            },
+            {
+              "name": "perfect",
+              "value": 9219,
+              "proportion": 0.27737160393537325
+            },
+            {
+              "name": "perfect",
+              "value": 6739,
+              "proportion": 0.2027559647380931
+            },
+            {
+              "name": "flavor",
+              "value": 1876,
+              "proportion": 0.056443120618587715
+            },
+            {
+              "name": "Other",
+              "value": 823,
+              "proportion": 0.024761560911032886,
+              "children": [
+                {
+                  "name": "Strawberry",
+                  "value": 336,
+                  "proportion": 0.01010921563317989
+                },
+                {
+                  "name": "ultimate",
+                  "value": 487,
+                  "proportion": 0.014652345277852995
+                }
+              ]
+            }
+          ],
+          "proportion": 0.013727272727272727
+        },
+        {
+          "name": "bread",
+          "value": 550,
+          "children": [
+            {
+              "name": "easy",
+              "value": 2689,
+              "proportion": 0.24238327023616368
+            },
+            {
+              "name": "food",
+              "value": 1493,
+              "proportion": 0.13457724896340365
+            },
+            {
+              "name": "cheese",
+              "value": 1374,
+              "proportion": 0.12385073012439156
+            },
+            {
+              "name": "cream",
+              "value": 1714,
+              "proportion": 0.15449792680728322
+            },
+            {
+              "name": "flavor",
+              "value": 1077,
+              "proportion": 0.09707950243374797
+            },
+            {
+              "name": "quick",
+              "value": 1254,
+              "proportion": 0.11303407247160627
+            },
+            {
+              "name": "Other",
+              "value": 1493,
+              "proportion": 0.13457724896340365,
+              "children": [
+                {
+                  "name": "chocolate",
+                  "value": 525,
+                  "proportion": 0.04732287723093564
+                },
+                {
+                  "name": "flour",
+                  "value": 376,
+                  "proportion": 0.03389219397872724
+                },
+                {
+                  "name": "sandwich",
+                  "value": 328,
+                  "proportion": 0.029565530917613124
+                },
+                {
+                  "name": "water",
+                  "value": 264,
+                  "proportion": 0.023796646836127637
+                }
+              ]
+            }
+          ],
+          "proportion": 0.025
+        }
+      ]
+    }
+  ]
+}
