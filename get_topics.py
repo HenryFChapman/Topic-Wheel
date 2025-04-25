@@ -147,6 +147,8 @@ def build_hierarchical_structure(top_level_topics):
             
             # Process subtopics
             subtopic_items = []
+            seen_subtopics = set()  # Track seen subtopics to prevent duplicates
+            
             for subtopic in subtopics:
                 subtopic_relationships = subtopic.get('relationships', [])
                 if not subtopic_relationships:
@@ -156,10 +158,11 @@ def build_hierarchical_structure(top_level_topics):
                 subtopic_name = subtopic_primary.get('label')
                 subtopic_value = subtopic_primary.get('cooccurrence', 0)
                 
-                # Skip if the subtopic is the same as the main topic
-                if subtopic_name == topic_name:
+                # Skip if the subtopic is the same as the main topic or if we've seen it before
+                if subtopic_name == topic_name or subtopic_name in seen_subtopics:
                     continue
                 
+                seen_subtopics.add(subtopic_name)
                 subtopic_items.append({
                     'name': subtopic_name,
                     'value': subtopic_value
