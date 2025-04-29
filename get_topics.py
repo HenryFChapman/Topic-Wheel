@@ -34,8 +34,7 @@ def get_topics(query_term, size=10):
         },
         "topics": {
             "size": size,
-            "types": ["topic"],
-            "clustering_bias": 0.5
+            "types": ["topic"]
         }
     }
     
@@ -117,6 +116,9 @@ def build_hierarchical_structure(top_level_topics):
     total_topics = len(top_level_topics)
     print(f"\nProcessing {total_topics} top-level topics...")
     
+    # Track seen top-level topics to prevent duplicates
+    seen_topics = set()
+    
     # Process each top-level topic
     for i, topic in enumerate(top_level_topics, 1):
         relationships = topic.get('relationships', [])
@@ -128,6 +130,12 @@ def build_hierarchical_structure(top_level_topics):
         topic_name = primary.get('label')
         topic_value = primary.get('cooccurrence', 0)
         
+        # Skip if we've already seen this topic
+        if topic_name in seen_topics:
+            print(f"Skipping duplicate topic: {topic_name}")
+            continue
+            
+        seen_topics.add(topic_name)
         print(f"\nProcessing topic {i}/{total_topics}: {topic_name}")
         
         # Create main topic data
@@ -201,7 +209,7 @@ def build_hierarchical_structure(top_level_topics):
 
 def main():
     # Example usage
-    query_term = "recipe"  # You can change this to any search term
+    query_term = "shein"  # You can change this to any search term
     size = 10  # Number of topics to retrieve
     
     try:
@@ -217,7 +225,7 @@ def main():
         hierarchical_data = process_topics_data(data)
         
         # Save processed data to JSON file
-        output_file = 'topics_data.json'
+        output_file = 'data/topics_data.json'
         with open(output_file, 'w') as f:
             json.dump(hierarchical_data, f, indent=2)
         

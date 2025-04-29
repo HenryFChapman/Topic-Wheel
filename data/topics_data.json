@@ -1,0 +1,373 @@
+{
+  "name": "Topics",
+  "children": [
+    {
+      "name": "Donald Trump",
+      "value": 8021,
+      "children": [
+        {
+          "name": "said",
+          "value": 9071,
+          "proportion": 0.3247413453621165
+        },
+        {
+          "name": "countries",
+          "value": 3589,
+          "proportion": 0.12848602011957183
+        },
+        {
+          "name": "Chinese",
+          "value": 1502,
+          "proportion": 0.05377152471986539
+        },
+        {
+          "name": "also",
+          "value": 6379,
+          "proportion": 0.2283678802849676
+        },
+        {
+          "name": "economy",
+          "value": 1595,
+          "proportion": 0.05710092005871192
+        },
+        {
+          "name": "trade",
+          "value": 2843,
+          "proportion": 0.10177925750903949
+        },
+        {
+          "name": "Truth",
+          "value": 2549,
+          "proportion": 0.09125407224429886
+        },
+        {
+          "name": "Other",
+          "value": 405,
+          "proportion": 0.014498979701428417,
+          "children": [
+            {
+              "name": "USA",
+              "value": 405,
+              "proportion": 0.014498979701428417
+            }
+          ]
+        }
+      ],
+      "proportion": 0.5194948186528497
+    },
+    {
+      "name": "raise",
+      "value": 2367,
+      "children": [
+        {
+          "name": "tariffs",
+          "value": 4820,
+          "proportion": 0.2642978560070187
+        },
+        {
+          "name": "China",
+          "value": 3139,
+          "proportion": 0.1721226078850688
+        },
+        {
+          "name": "donate",
+          "value": 1179,
+          "proportion": 0.06464879091955913
+        },
+        {
+          "name": "Company",
+          "value": 3323,
+          "proportion": 0.18221198662060645
+        },
+        {
+          "name": "shares",
+          "value": 1511,
+          "proportion": 0.08285353950759446
+        },
+        {
+          "name": "community",
+          "value": 3021,
+          "proportion": 0.16565224543510446
+        },
+        {
+          "name": "Other",
+          "value": 1244,
+          "proportion": 0.06821297362504798,
+          "children": [
+            {
+              "name": "agree",
+              "value": 439,
+              "proportion": 0.02407194165707079
+            },
+            {
+              "name": "GAZ-A",
+              "value": 238,
+              "proportion": 0.013050392060097603
+            },
+            {
+              "name": "Repost",
+              "value": 77,
+              "proportion": 0.004222185666502166
+            },
+            {
+              "name": "donations",
+              "value": 490,
+              "proportion": 0.026868454241377418
+            }
+          ]
+        }
+      ],
+      "proportion": 0.15330310880829015
+    },
+    {
+      "name": "de minimis",
+      "value": 3135,
+      "children": [
+        {
+          "name": "Donald Trump",
+          "value": 9675,
+          "proportion": 0.17226643875861333
+        },
+        {
+          "name": "China",
+          "value": 11207,
+          "proportion": 0.19954418389331055
+        },
+        {
+          "name": "also",
+          "value": 7006,
+          "proportion": 0.12474404857290387
+        },
+        {
+          "name": "Temu",
+          "value": 8550,
+          "proportion": 0.15223545750761178
+        },
+        {
+          "name": "may",
+          "value": 6977,
+          "proportion": 0.12422769438954472
+        },
+        {
+          "name": "goods",
+          "value": 6677,
+          "proportion": 0.11888609938927763
+        },
+        {
+          "name": "duty-free",
+          "value": 4885,
+          "proportion": 0.08697897192101561
+        },
+        {
+          "name": "Other",
+          "value": 1186,
+          "proportion": 0.021117105567722522,
+          "children": [
+            {
+              "name": "direct",
+              "value": 1186,
+              "proportion": 0.021117105567722522
+            }
+          ]
+        }
+      ],
+      "proportion": 0.2030440414507772
+    },
+    {
+      "name": "exatamente assim",
+      "value": 1123,
+      "children": [
+        {
+          "name": "feriado exatamente",
+          "value": 4416,
+          "proportion": 0.35393123346958405
+        },
+        {
+          "name": "ficar esse",
+          "value": 4416,
+          "proportion": 0.35393123346958405
+        },
+        {
+          "name": "mal posso",
+          "value": 3645,
+          "proportion": 0.29213753306083196
+        }
+      ],
+      "proportion": 0.07273316062176166
+    },
+    {
+      "name": "Other",
+      "value": 794,
+      "proportion": 0.05142487046632124,
+      "children": [
+        {
+          "name": "cart",
+          "value": 273,
+          "children": [
+            {
+              "name": "Read",
+              "value": 3988,
+              "proportion": 0.359408795962509
+            },
+            {
+              "name": "Park",
+              "value": 755,
+              "proportion": 0.06804253785147801
+            },
+            {
+              "name": "Donald Trump",
+              "value": 603,
+              "proportion": 0.054343907714491706
+            },
+            {
+              "name": "price",
+              "value": 3592,
+              "proportion": 0.32372025955299205
+            },
+            {
+              "name": "sale",
+              "value": 1348,
+              "proportion": 0.12148521989906272
+            },
+            {
+              "name": "Other",
+              "value": 810,
+              "proportion": 0.07299927901946647,
+              "children": [
+                {
+                  "name": "preorder",
+                  "value": 462,
+                  "proportion": 0.0416366258111031
+                },
+                {
+                  "name": "ride",
+                  "value": 298,
+                  "proportion": 0.026856524873828405
+                },
+                {
+                  "name": "horse",
+                  "value": 50,
+                  "proportion": 0.004506128334534967
+                }
+              ]
+            }
+          ],
+          "proportion": 0.017681347150259066
+        },
+        {
+          "name": "due",
+          "value": 231,
+          "children": [
+            {
+              "name": "without",
+              "value": 2707,
+              "proportion": 0.10145416385578293
+            },
+            {
+              "name": "President",
+              "value": 3010,
+              "proportion": 0.11281013417285062
+            },
+            {
+              "name": "also",
+              "value": 6940,
+              "proportion": 0.2601004422457087
+            },
+            {
+              "name": "report",
+              "value": 4025,
+              "proportion": 0.1508507608125328
+            },
+            {
+              "name": "including",
+              "value": 7078,
+              "proportion": 0.26527246833070983
+            },
+            {
+              "name": "country",
+              "value": 1553,
+              "proportion": 0.05820403268120831
+            },
+            {
+              "name": "Other",
+              "value": 1369,
+              "proportion": 0.051307997901206805,
+              "children": [
+                {
+                  "name": "costs",
+                  "value": 881,
+                  "proportion": 0.03301851435424631
+                },
+                {
+                  "name": "prison",
+                  "value": 488,
+                  "proportion": 0.018289483546960496
+                }
+              ]
+            }
+          ],
+          "proportion": 0.014961139896373057
+        },
+        {
+          "name": "fashion",
+          "value": 290,
+          "children": [
+            {
+              "name": "Street",
+              "value": 840,
+              "proportion": 0.11962403873540302
+            },
+            {
+              "name": "casual",
+              "value": 925,
+              "proportion": 0.13172885217886643
+            },
+            {
+              "name": "clothing",
+              "value": 533,
+              "proportion": 0.07590430076901168
+            },
+            {
+              "name": "luxury",
+              "value": 696,
+              "proportion": 0.09911706066647678
+            },
+            {
+              "name": "Spring",
+              "value": 803,
+              "proportion": 0.11435488464824836
+            },
+            {
+              "name": "design",
+              "value": 2130,
+              "proportion": 0.3033323839362005
+            },
+            {
+              "name": "2025 Resee",
+              "value": 710,
+              "proportion": 0.10111079464540017
+            },
+            {
+              "name": "Other",
+              "value": 385,
+              "proportion": 0.05482768442039305,
+              "children": [
+                {
+                  "name": "global",
+                  "value": 251,
+                  "proportion": 0.035744802050697806
+                },
+                {
+                  "name": "Nail",
+                  "value": 134,
+                  "proportion": 0.019082882369695242
+                }
+              ]
+            }
+          ],
+          "proportion": 0.01878238341968912
+        }
+      ]
+    }
+  ]
+}
